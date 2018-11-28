@@ -1,5 +1,7 @@
 # d3-format
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-format)](https://dev.azure.com/d3/d3/_build/definition?definitionId=16)
+
 Ever noticed how sometimes JavaScript doesn’t display numbers the way you expect? Like, you tried to print tenths with a simple loop:
 
 ```js
